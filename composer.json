@@ -1,0 +1,17 @@
+{
+    "name": "bvtvd/number-conversion",
+    "type": "1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hans",
+            "email": "hans01@foxmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "bvtvd\\": "src/"
+        }
+    }
+}
