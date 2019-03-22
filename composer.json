@@ -1,5 +1,6 @@
 {
     "name": "bvtvd/number-conversion",
+    "description": "数字转中文, 中文转数字",
     "type": "1",
     "license": "MIT",
     "authors": [
