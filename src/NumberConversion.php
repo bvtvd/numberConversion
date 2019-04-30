@@ -250,7 +250,7 @@ class NumberConversion
                         $rtn += $section;
                         $section = 0;
                     }else{
-                        $section += ($number * $unit);
+                        $section += $number > 0 ? ($number * $unit) : $unit;
                     }
 
                     $number = 0;
